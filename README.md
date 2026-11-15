@@ -1,31 +1,35 @@
 # 👋 Olá, eu sou Maykon Carvalho
 
-Formado em **Ciência de Dados e Inteligência Artificial** (UniSENAI Florianópolis) e atuando na **Federação das Indústrias do Estado de Santa Catarina (FIESC)**. Trabalho na interseção entre **dados, tecnologia e negócio**, construindo soluções que transformam problemas reais em respostas orientadas por dados.
+🎓 Estudante de Ciência de Dados e Inteligência Artificial — UniSENAI Florianópolis<br>
+💼 Profissional na Federação das Indústrias do Estado de Santa Catarina (FIESC)<br>
+📍 Florianópolis/SC
 
-> Experiência de negócio somada à formação em dados, aplicadas à construção de soluções tecnológicas — da análise ao modelo em produção.
+> **Da experiência em vendas à construção de soluções orientadas por dados — uma transição de carreira movida por aprendizado contínuo, tecnologia e problemas reais.**
 
 ---
 
 ## 🧭 Sobre mim
 
-Minha trajetória combina a formação em Ciência de Dados e IA com a vivência profissional na FIESC e o desenvolvimento de projetos acadêmicos e aplicados.
+Minha trajetória profissional começou na área comercial e de vendas, onde desenvolvi uma visão prática de negócio: entender a necessidade real antes de propor qualquer solução. Hoje estou em transição de carreira para a tecnologia, construindo minha formação em Ciência de Dados e Inteligência Artificial na UniSENAI e atuando profissionalmente na FIESC.
 
-Gosto de trabalhar do dado ao produto: entender o problema de negócio, estruturar o fluxo de dados que o sustenta e entregar algo que alguém consiga usar para decidir. Esse interesse me levou a explorar desde análise e engenharia de dados até machine learning e práticas de MLOps.
+Venho ampliando competências em dados, engenharia de dados, machine learning e MLOps por meio de projetos práticos. Esse percurso me dá um diferencial: trato cada problema a partir do negócio para só então desenhar a solução técnica — da análise do dado ao modelo em operação.
+
+> **Experiência de negócio + formação em dados + construção de soluções tecnológicas.**
 
 ---
 
 ## 🔭 O que estou construindo
 
-📊 **Data Science & Analytics**
+📊 **Data Science & Analytics**<br>
 Análise, exploração e transformação de dados em informação útil.
 
-⚙️ **Data Engineering & Big Data**
+⚙️ **Data Engineering & Big Data**<br>
 Pipelines, processamento de dados, ETL e arquiteturas em camadas.
 
-🤖 **AI & Machine Learning**
+🤖 **AI & Machine Learning**<br>
 Modelos preditivos e aplicações de inteligência artificial.
 
-🔄 **MLOps**
+🔄 **MLOps**<br>
 Monitoramento, reprodutibilidade e evolução de modelos em produção.
 
 ---
@@ -58,29 +62,40 @@ Projeto **colaborativo** de automação analítica aplicada a dados moleculares 
 
 ---
 
-## 💡 O que quero construir
-
-Quero evoluir na construção de soluções orientadas por dados: **pipelines confiáveis**, **aplicações de IA** e **sistemas inteligentes** que conectem problemas reais, dados e tecnologia. O objetivo é entregar soluções que sejam reprodutíveis, monitoráveis e úteis para quem decide.
-
----
-
 ## 🧰 Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,fastapi" height="42" alt="Python, PostgreSQL, Docker, Git, GitHub, FastAPI" />
+</p>
 
 | Área | Tecnologias |
 | --- | --- |
-| **Dados & Analytics** | Python · SQL · Pandas · Polars · NumPy |
-| **Data Engineering** | PySpark · Spark · ETL · Data Lake |
-| **Banco de Dados** | PostgreSQL · SQL |
-| **ML / MLOps** | Machine Learning · MLOps · Data Drift |
-| **Desenvolvimento & Infraestrutura** | Docker · Git · GitHub · FastAPI · Streamlit |
+| **Data Science & Analytics** | Python · SQL · Pandas · Polars · NumPy |
+| **Data Engineering** | ETL · Data Lake · PySpark |
+| **Databases** | PostgreSQL |
+| **Big Data** | Apache Spark · PySpark |
+| **Machine Learning / MLOps** | Machine Learning · MLOps · Data Drift |
+| **Development** | Docker · Git · GitHub · FastAPI · Streamlit |
 
 ---
 
 ## 📈 Evolução
 
-Meus projetos acompanham uma trajetória natural de aprofundamento:
+Minha trajetória reflete uma transição profissional construída por etapas:
 
-**Dados → Engenharia de Dados → Machine Learning → MLOps → IA**
+**Experiência de negócio** → **Dados & Analytics** → **Engenharia de Dados** → **Machine Learning** → **MLOps & IA**
+
+---
+
+## 🎯 O que busco
+
+Estou em busca de oportunidades que me permitam seguir na transição para tecnologia, aplicando o conhecimento construído na formação, nos projetos práticos e na minha experiência profissional de negócio.
+
+**Foco principal:** Data Science · Data Analytics · Engenharia de Dados
+
+**Áreas de interesse e evolução:** Machine Learning · MLOps · Inteligência Artificial
+
+Busco um ambiente onde eu possa contribuir com visão de negócio e continuar evoluindo tecnicamente.
 
 ---
 
