@@ -1,8 +1,20 @@
-# 👋 Olá, eu sou Maykon Carvalho
+<h1 align="center">👋 Olá, eu sou Maykon Carvalho</h1>
 
-🎓 Estudante de Ciência de Dados e Inteligência Artificial — UniSENAI Florianópolis<br>
-💼 Profissional na Federação das Indústrias do Estado de Santa Catarina (FIESC)<br>
-📍 Florianópolis/SC
+<p align="center">
+  <a href="https://www.linkedin.com/in/maykon-douglas-da-silva-carvalho-2aa271239/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MDCarvalho-77">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MDCarvalho-77&style=for-the-badge&color=blue&label=Visitas+no+perfil" alt="Visitas no perfil" />
+</p>
+
+<p align="center">
+  🎓 Estudante de Ciência de Dados e Inteligência Artificial — UniSENAI Florianópolis<br>
+  💼 Profissional na Federação das Indústrias do Estado de Santa Catarina (FIESC)<br>
+  📍 Florianópolis/SC
+</p>
 
 > **Da experiência em vendas à construção de soluções orientadas por dados — uma transição de carreira movida por aprendizado contínuo, tecnologia e problemas reais.**
 
@@ -65,17 +77,48 @@ Projeto **colaborativo** de automação analítica aplicada a dados moleculares 
 ## 🧰 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,fastapi" height="42" alt="Python, PostgreSQL, Docker, Git, GitHub, FastAPI" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,fastapi,bash,html" height="42" alt="Python, PostgreSQL, Docker, Git, GitHub, FastAPI, Bash/PowerShell, HTML" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 | Área | Tecnologias |
 | --- | --- |
 | **Data Science & Analytics** | Python · SQL · Pandas · Polars · NumPy |
 | **Data Engineering** | ETL · Data Lake · PySpark |
-| **Databases** | PostgreSQL |
+| **Databases** | PostgreSQL · PL/pgSQL |
 | **Big Data** | Apache Spark · PySpark |
 | **Machine Learning / MLOps** | Machine Learning · MLOps · Data Drift |
-| **Development** | Docker · Git · GitHub · FastAPI · Streamlit |
+| **Cloud & Automação** | PowerShell · Cloud Computing |
+| **Development** | Docker · Git · GitHub · FastAPI · Streamlit · HTML |
+
+> As tecnologias acima refletem as linguagens e ferramentas presentes nos meus repositórios públicos — de Python (dominante) a PowerShell e PL/pgSQL em projetos de Cloud Computing, além de Docker e HTML na geração de relatórios.
+
+---
+
+## 📊 GitHub em números
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MDCarvalho-77&show_icons=true&count_private=true&hide_border=true&theme=default" alt="Estatísticas do GitHub de Maykon Carvalho" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDCarvalho-77&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Linguagens mais usadas por Maykon Carvalho" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MDCarvalho-77&hide_border=true&theme=default" alt="Sequência de contribuições de Maykon Carvalho" />
+</p>
 
 ---
 
@@ -101,5 +144,16 @@ Busco um ambiente onde eu possa contribuir com visão de negócio e continuar ev
 
 ## 📫 Conecte-se comigo
 
+<p>
+  <a href="https://www.linkedin.com/in/maykon-douglas-da-silva-carvalho-2aa271239/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MDCarvalho-77">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 - **LinkedIn:** [maykon-douglas-da-silva-carvalho](https://www.linkedin.com/in/maykon-douglas-da-silva-carvalho-2aa271239/)
 - **GitHub:** [MDCarvalho-77](https://github.com/MDCarvalho-77)
+
+<p align="center"><i>⚡ Experiência de negócio + formação em dados + construção de soluções tecnológicas.</i></p>
