@@ -17,7 +17,6 @@
   <a href="https://github.com/MDCarvalho-77">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MDCarvalho-77&style=for-the-badge&color=00FF9C&label=Visitas+no+perfil" alt="Visitas no perfil" />
 </p>
 
 <p align="center">
