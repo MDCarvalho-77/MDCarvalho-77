@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24" role="img" aria-label="divisor luminoso">
+  <defs>
+    <linearGradient id="d" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00FF9C" stop-opacity="1"/>
+      <stop offset="1"   stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="11" width="900" height="2" fill="url(#d)" opacity="0.8"/>
+  <circle cx="450" cy="12" r="4" fill="#00FF9C">
+    <animate attributeName="cx" values="120;780;120" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

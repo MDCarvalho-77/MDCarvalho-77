@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Maykon D. S. Carvalho - Ciencia de Dados e Inteligencia Artificial">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#010409"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#00FF9C"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg)"/>
+  <rect x="2" y="2" width="896" height="216" fill="none" stroke="url(#neon)" stroke-width="1.5" opacity="0.5" rx="10"/>
+
+  <!-- Matrix rain: estado estatico legivel; anima via SMIL quando suportado -->
+  <g font-family="'Fira Code','Courier New',monospace" font-size="15" fill="#00FF9C">
+    <text x="60"  y="20" opacity="0.30">1 0 1 1<animate attributeName="y" values="-20;240" dur="6s" repeatCount="indefinite"/></text>
+    <text x="150" y="60" opacity="0.22">0 1 0 0<animate attributeName="y" values="-40;240" dur="7.5s" repeatCount="indefinite"/></text>
+    <text x="250" y="10" opacity="0.28">1 1 0 1<animate attributeName="y" values="-10;240" dur="5.5s" repeatCount="indefinite"/></text>
+    <text x="760" y="40" opacity="0.26">0 0 1 0<animate attributeName="y" values="-30;240" dur="6.8s" repeatCount="indefinite"/></text>
+    <text x="840" y="80" opacity="0.20">1 0 0 1<animate attributeName="y" values="-50;240" dur="8s"   repeatCount="indefinite"/></text>
+    <text x="680" y="15" opacity="0.24">0 1 1 0<animate attributeName="y" values="-15;240" dur="7s"   repeatCount="indefinite"/></text>
+    <text x="30"  y="120" opacity="0.18">1 1 1 0<animate attributeName="y" values="80;240" dur="9s"  repeatCount="indefinite"/></text>
+    <text x="870" y="150" opacity="0.18">0 1 0 1<animate attributeName="y" values="90;240" dur="8.5s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Nome em destaque tipo letreiro LED -->
+  <g text-anchor="middle" font-family="'Fira Code','Courier New',monospace">
+    <text x="450" y="98" font-size="40" font-weight="700" fill="url(#neon)" filter="url(#glow)" letter-spacing="2">
+      MAYKON D. S. CARVALHO
+      <animate attributeName="opacity" values="0.85;1;0.85" dur="2.6s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="135" font-size="17" fill="#c9d1d9" letter-spacing="3">
+      CI&#234;NCIA DE DADOS &#183; INTELIG&#234;NCIA ARTIFICIAL
+    </text>
+    <text x="450" y="168" font-size="13" fill="#00E5FF" letter-spacing="2">
+      DATA ENGINEERING &#183; BIG DATA &#183; MACHINE LEARNING &#183; MLOps
+    </text>
+  </g>
+
+  <!-- Trilho LED inferior -->
+  <g>
+    <rect x="150" y="190" width="600" height="3" rx="1.5" fill="#161b22"/>
+    <rect x="150" y="190" width="150" height="3" rx="1.5" fill="url(#neon)">
+      <animate attributeName="x" values="150;600;150" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
