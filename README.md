@@ -61,7 +61,7 @@ Monitoramento, reprodutibilidade e evolução de modelos em produção.
 ## 🧰 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,fastapi,bash,html" height="42" alt="Python, PostgreSQL, Docker, Git, GitHub, FastAPI, Bash/PowerShell, HTML" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,fastapi,powershell,html" height="42" alt="Python, PostgreSQL, Docker, Git, GitHub, FastAPI, PowerShell, HTML" />
 </p>
 
 **`▚ Linguagens`**
@@ -78,8 +78,8 @@ Monitoramento, reprodutibilidade e evolução de modelos em produção.
 <p>
   <img src="https://img.shields.io/badge/Apache%20Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=00FF9C" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/PySpark-0d1117?style=for-the-badge&logo=apachespark&logoColor=00E5FF" alt="PySpark" />
-  <img src="https://img.shields.io/badge/ETL-0d1117?style=for-the-badge&logo=databricks&logoColor=00FF9C" alt="ETL" />
-  <img src="https://img.shields.io/badge/Data%20Lake-0d1117?style=for-the-badge&logo=apacheiceberg&logoColor=00E5FF" alt="Data Lake" />
+  <img src="https://img.shields.io/badge/ETL-0d1117?style=for-the-badge&labelColor=0d1117&color=00FF9C" alt="ETL" />
+  <img src="https://img.shields.io/badge/Data%20Lake-0d1117?style=for-the-badge&labelColor=0d1117&color=00E5FF" alt="Data Lake" />
 </p>
 
 **`▚ Bancos de dados`**
@@ -108,7 +108,7 @@ Monitoramento, reprodutibilidade e evolução de modelos em produção.
   <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00FF9C" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=00E5FF" alt="Streamlit" />
   <img src="https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=00FF9C" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing-0d1117?style=for-the-badge&logo=icloud&logoColor=00E5FF" alt="Cloud Computing" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-0d1117?style=for-the-badge&labelColor=0d1117&color=00E5FF" alt="Cloud Computing" />
 </p>
 
 | Área | Tecnologias |
